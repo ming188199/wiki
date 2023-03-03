@@ -1,18 +1,12 @@
 created: 20230303112328952
-modified: 20230303112901842
-tags: chatgpt
+modified: 20230303142335741
+tags: chatgpt 订阅制软件
 title: Readwise
 type: text/vnd.tiddlywiki
+wysiwyg: yes
 
-Readwise（http://readwise.io）（包括在线版 Readwise 和 手机版 Reader App）。
+Readwise（[ext[http://readwise.io]]）（包括在线版 Readwise 和 手机版 Reader App）。
 
-"""
-居然内置了最新的 Chat-GPT，并在上下文中提供了诸多由人工智能支撑的功能
-比如：
-* 	在阅读前先生成几个引发思考的问题，
-* 	对将要阅读的文章进行概括，
-* 	对选中的内容的表述进行简化，
-* 	以及根据高亮内容自动生成相应的问答笔记。
-"""
+居然内置了最新的 Chat-GPT，并在上下文中提供了诸多由人工智能支撑的功能<br ></br></br>比如：<br ></br></br>* 	在阅读前先生成几个引发思考的问题，<br ></br></br>* 	对将要阅读的文章进行概括，<br ></br></br>* 	对选中的内容的表述进行简化，<br ></br></br>* 	以及根据高亮内容自动生成相应的问答笔记。<br ></br></br>
 
 [[Readwise：可补充或替代 Anki/SuperMemo，集阅读、记录、复习、写作、归档于一体的一站式解决方案 | 学习骇客|https://zhuanlan.zhihu.com/p/609927452?utm_campaign=&utm_medium=social&utm_oi=29204682899456&utm_psn=1615066520655962112&utm_source=qq]]
